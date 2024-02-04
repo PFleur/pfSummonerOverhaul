@@ -1,0 +1,26 @@
+Items: {
+	pfFlinxHat: {
+		DisplayName: Flinx Crown
+		Tooltip: Increases summon damage by 5%
+	}
+
+	pfFlinxSkirt: {
+		DisplayName: Flinx Skirt
+		Tooltip: Increases summon damgae by 5%
+	}
+
+	pfLeafChest: {
+		DisplayName: Leafy Chestplate
+		Tooltip: Increases summon damage by 1%
+	}
+
+	pfLeafHelm: {
+		DisplayName: Leafy Helmet
+		Tooltip: Increases summon damage by 1%
+	}
+
+	pfLeafLegs: {
+		DisplayName: Leafy Legs
+		Tooltip: Increases summon damage by 1%
+	}
+}

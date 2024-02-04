@@ -1,0 +1,3 @@
+displayName = Summoner Overhaul
+author = Patchouli Fleur
+version = 0.1

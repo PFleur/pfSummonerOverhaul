@@ -1,0 +1,1 @@
+A overhaul to the summoner class; it currently adds a pre-boss armor set, two pre-boss whips, and a complete flinx set.
